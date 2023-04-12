@@ -5,7 +5,6 @@
 
 ### Welcome to my profile 👋🏼
 
-My name is Flávio, I'am FullStack JavaScript Developer.
+My name is Flávio.
 
-- ❤️ In love with JavaScript and TypeScript
 - 💼 Currently work with Data in Tembici 🚴.
