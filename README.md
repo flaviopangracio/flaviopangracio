@@ -7,4 +7,5 @@
 
 My name is Flávio.
 
-- 💼 Currently work with Data in Tembici 🚴.
+- 📈 Study Economic Sciences at UFV. Focus on Regional and Urban Economy.
+- 💼 Currently work with Data Engineering at Tembici 🚴.
